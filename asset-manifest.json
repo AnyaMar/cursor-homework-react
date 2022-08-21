@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cursor-homework-react/static/css/main.af4c320b.css",
+    "main.js": "/cursor-homework-react/static/js/main.34baa8d5.js",
+    "index.html": "/cursor-homework-react/index.html",
+    "main.af4c320b.css.map": "/cursor-homework-react/static/css/main.af4c320b.css.map",
+    "main.34baa8d5.js.map": "/cursor-homework-react/static/js/main.34baa8d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af4c320b.css",
+    "static/js/main.34baa8d5.js"
+  ]
+}
